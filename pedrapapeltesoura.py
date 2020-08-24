@@ -9,3 +9,4 @@ def ganha_todas(p):
 	return r;
 
 print("minha resposta é " + ganha_todas(input("Pedra, papel, tesoura: ")))
+input()
