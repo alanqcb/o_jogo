@@ -10,3 +10,4 @@ def ganha_todas(p):
 
 print("minha resposta é " + ganha_todas(input("Pedra, papel, tesoura: ")))
 input()
+
